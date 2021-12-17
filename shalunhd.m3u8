@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=700000
+http://31.134.132.245:8080/shalun_hd/tracks-v1a1/mono.m3u8
